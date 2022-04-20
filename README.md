@@ -1,6 +1,8 @@
 # cs521
-CS 521 Statistical NLP course repo
 
-Equilibrium Semantics Paper Presentation [here](http://akych.com/cs521/paper_slides.pdf)
+This is the CS 521 Statistical NLP course repo.
 
-Project Presentation Slides [here](http://akych.com/cs521/slides.pdf)
+Open the `Classifier.ipynb` using Jupyter Notebook and click on Run All Cells.
+
+The presentation slides can be found in the `docs` folder.
+
